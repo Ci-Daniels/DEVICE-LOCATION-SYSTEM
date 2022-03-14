@@ -1,0 +1,2 @@
+# DEVICE-LOCATION-SYSTEM
+It has if not all the time, most times happened that we lose or misplace our keys or wallets; and the experience has been traumatic. Having to go back and try to trace back our steps. Sometimes with luck, we find the lost item but other times, we end up having to replace them.  The alert system helps solve this problem quickly. This is by automating the entire process of locating the lost items. It allows us to turn on a buzzer through the click of a button in our phones which in turn gives the location of the item.
